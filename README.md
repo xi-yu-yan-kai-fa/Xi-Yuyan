@@ -1,7 +1,7 @@
 # 习语言 XI YU YAN
 
 <p align="center">
-  <img src="https://azure.sokoide.com/gogs/niconiconi/Xi-Yuyan/raw/master/xiyuyan.png"/>
+  <img src="xiyuyan.png"/>
 </p>
 
 
